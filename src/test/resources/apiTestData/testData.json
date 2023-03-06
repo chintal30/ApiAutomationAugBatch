@@ -1,0 +1,22 @@
+{
+  "PostUsers" : {
+    "baseURI": "https://reqres.in",
+    "endPoint": "/api/users",
+    "portNumber": 8080,
+    "body": "//src//test//resources//apiRequestBody//createUsersPayload.json",
+    "headers": "header1=value1,header2=value2",
+    "cookies": "cookies1=value1,cookies2=value2"
+  },
+  "GetUsers" : {
+    "baseURI": "https://reqres.in",
+    "endPoint": "/api/users",
+    "portNumber": 443,
+    "body": "",
+    "headers": "",
+    "cookies": ""
+  }
+
+}
+
+
+
